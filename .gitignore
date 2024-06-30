@@ -53,3 +53,6 @@ __pycache__/
 # Ignore sensitive information
 *.sensitive
 *.config%%
+
+# Tailwind Generated
+styles.css
